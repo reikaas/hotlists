@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "updated": "2026-10-02T22:12:27+02:00",
+  "lists": [
+    {
+      "date": "2026-10-02",
+      "csv": "lists/2026-10-02.csv",
+      "urls": "lists/2026-10-02-urls.txt",
+      "tracks": 44,
+      "sha256": "06fc9d576228b06df69308ece44b92342b1c70558997e2746e432c8a9a06fea1"
+    }
+  ]
+}
