@@ -1,0 +1,2 @@
+# Keep list files byte-exact so the sha256 in index.json matches the raw download.
+* -text
