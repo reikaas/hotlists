@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "updated": "2026-10-04T05:30:18+02:00",
+  "updated": "2026-10-04T08:22:33+02:00",
   "lists": [
+    {
+      "date": "2026-10-04",
+      "csv": "lists/2026-10-04.csv",
+      "urls": "lists/2026-10-04-urls.txt",
+      "tracks": 24,
+      "sha256": "3d651f373b6c2bc962d0d7cb9899b30f1ee03a75251fb41387bd9ea597d67954"
+    },
     {
       "date": "2026-10-04",
       "name": "minimal-tech-groovers",
