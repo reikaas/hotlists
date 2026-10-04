@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated": "2026-10-04T05:25:08+02:00",
+  "updated": "2026-10-04T05:30:15+02:00",
   "lists": [
+    {
+      "date": "2026-10-04",
+      "name": "psytrance-bangers",
+      "csv": "lists/2026-10-04-psytrance-bangers.csv",
+      "urls": "lists/2026-10-04-psytrance-bangers-urls.txt",
+      "tracks": 50,
+      "sha256": "d72c5e2d11c380173e1c9011d55193b730ccee8b122ee167cda2cf644486fc95"
+    },
     {
       "date": "2026-10-03",
       "csv": "lists/2026-10-03.csv",
