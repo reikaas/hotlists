@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated": "2026-10-04T05:30:15+02:00",
+  "updated": "2026-10-04T05:30:18+02:00",
   "lists": [
+    {
+      "date": "2026-10-04",
+      "name": "minimal-tech-groovers",
+      "csv": "lists/2026-10-04-minimal-tech-groovers.csv",
+      "urls": "lists/2026-10-04-minimal-tech-groovers-urls.txt",
+      "tracks": 100,
+      "sha256": "86134cc0a6b8a5cdd7d1e12417432c062ac25573c14777cb225cc502833d6011"
+    },
     {
       "date": "2026-10-04",
       "name": "psytrance-bangers",
