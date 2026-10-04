@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-04T08:22:33+02:00",
+  "updated": "2026-10-04T18:50:37+02:00",
   "lists": [
     {
       "date": "2026-10-04",
@@ -24,6 +24,14 @@
       "urls": "lists/2026-10-04-psytrance-bangers-urls.txt",
       "tracks": 50,
       "sha256": "d72c5e2d11c380173e1c9011d55193b730ccee8b122ee167cda2cf644486fc95"
+    },
+    {
+      "date": "2026-10-04",
+      "name": "strange-and-special",
+      "csv": "lists/2026-10-04-strange-and-special.csv",
+      "urls": "lists/2026-10-04-strange-and-special-urls.txt",
+      "tracks": 50,
+      "sha256": "e037da23bce735142170ce71ecaeb718140c7ec6c00c2486a2e40bbd5209c9fa"
     },
     {
       "date": "2026-10-03",
