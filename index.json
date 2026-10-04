@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-04T18:50:37+02:00",
+  "updated": "2026-10-04T18:54:37+02:00",
   "lists": [
     {
       "date": "2026-10-04",
@@ -8,6 +8,14 @@
       "urls": "lists/2026-10-04-urls.txt",
       "tracks": 24,
       "sha256": "3d651f373b6c2bc962d0d7cb9899b30f1ee03a75251fb41387bd9ea597d67954"
+    },
+    {
+      "date": "2026-10-04",
+      "name": "hot-since-82-played",
+      "csv": "lists/2026-10-04-hot-since-82-played.csv",
+      "urls": "lists/2026-10-04-hot-since-82-played-urls.txt",
+      "tracks": 50,
+      "sha256": "88fe7bb9e802645bedc1a53d991b6c898b86059191f9f4f7fa6d33e7d46c458c"
     },
     {
       "date": "2026-10-04",
