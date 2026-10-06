@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "updated": "2026-10-05T08:27:52+02:00",
+  "updated": "2026-10-06T08:29:03+02:00",
   "lists": [
+    {
+      "date": "2026-10-06",
+      "csv": "lists/2026-10-06.csv",
+      "urls": "lists/2026-10-06-urls.txt",
+      "tracks": 25,
+      "sha256": "374ba32f36518544b2de7a21edd4ce3331344e8e3f72526da0da16f84c4a26a4"
+    },
     {
       "date": "2026-10-05",
       "csv": "lists/2026-10-05.csv",
