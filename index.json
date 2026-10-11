@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated": "2026-10-09T08:23:34+02:00",
+  "updated": "2026-10-11T04:28:54+02:00",
   "lists": [
+    {
+      "date": "2026-10-11",
+      "name": "franky-rizardo-set-l-jubj673mu",
+      "csv": "lists/2026-10-11-franky-rizardo-set-l-jubj673mu.csv",
+      "urls": "lists/2026-10-11-franky-rizardo-set-l-jubj673mu-urls.txt",
+      "tracks": 21,
+      "sha256": "f17dc6fa498be27aa91d0ee1eb03c67db9f900709754b93c5ac0157bb92d9314"
+    },
     {
       "date": "2026-10-09",
       "csv": "lists/2026-10-09.csv",
