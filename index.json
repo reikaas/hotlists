@@ -4,6 +4,14 @@
   "lists": [
     {
       "date": "2026-10-11",
+      "name": "franky-rizardo-played",
+      "csv": "lists/2026-10-11-franky-rizardo-played.csv",
+      "urls": "lists/2026-10-11-franky-rizardo-played-urls.txt",
+      "tracks": 52,
+      "sha256": "83878dd925657c1a1fecb1a4c01e0b2d4b05c4da44ce36bded5e6726bb15d059"
+    },
+    {
+      "date": "2026-10-11",
       "name": "franky-rizardo-set-l-jubj673mu",
       "csv": "lists/2026-10-11-franky-rizardo-set-l-jubj673mu.csv",
       "urls": "lists/2026-10-11-franky-rizardo-set-l-jubj673mu-urls.txt",
