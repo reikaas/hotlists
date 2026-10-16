@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "updated": "2026-10-11T04:28:55+02:00",
+  "updated": "2026-10-16T13:27:14+07:00",
   "lists": [
+    {
+      "date": "2026-10-16",
+      "csv": "lists/2026-10-16.csv",
+      "urls": "lists/2026-10-16-urls.txt",
+      "tracks": 42,
+      "sha256": "430c363e152c2435f6d93dbef2b29cfecac9e9834c10cc1638b3c9f04e8d540f"
+    },
     {
       "date": "2026-10-11",
       "name": "franky-rizardo-played",
