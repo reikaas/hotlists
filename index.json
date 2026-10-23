@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-23T22:33:09+02:00",
+  "updated": "2026-10-23T22:33:22+02:00",
   "lists": [
     {
       "date": "2026-10-23",
@@ -15,7 +15,7 @@
       "csv": "lists/2026-10-23-90s-hiphop-latino.csv",
       "urls": "lists/2026-10-23-90s-hiphop-latino-urls.txt",
       "tracks": 50,
-      "sha256": "1d12e74023018d76e665b1c71db90d2578b2b44dcd14974a453fe04242b47d8e"
+      "sha256": "d1f576e1a68fcef320cea17251a378759027dd2a17a778e3be8b224ac125962e"
     },
     {
       "date": "2026-10-16",
