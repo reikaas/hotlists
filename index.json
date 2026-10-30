@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T02:02:47+01:00",
+  "updated": "2026-10-30T08:24:31+01:00",
   "lists": [
+    {
+      "date": "2026-10-30",
+      "csv": "lists/2026-10-30.csv",
+      "urls": "lists/2026-10-30-urls.txt",
+      "tracks": 43,
+      "sha256": "de8b9ecf9021020470096a352f9c2beaa2daff5641d3ef8c0ef5c918b7d07fd5"
+    },
     {
       "date": "2026-10-25",
       "name": "hiphop-rnb-house",
