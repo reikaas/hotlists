@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated": "2026-10-30T08:24:31+01:00",
+  "updated": "2026-11-07T22:16:11+01:00",
   "lists": [
+    {
+      "date": "2026-11-07",
+      "name": "liked-club-set",
+      "csv": "lists/2026-11-07-liked-club-set.csv",
+      "urls": "lists/2026-11-07-liked-club-set-urls.txt",
+      "tracks": 44,
+      "sha256": "6ca25befa02e8d3283d1d7eec2ac966d7cdc1bac713506fdf0252d27031a6198"
+    },
     {
       "date": "2026-10-30",
       "csv": "lists/2026-10-30.csv",
